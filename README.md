@@ -178,7 +178,7 @@ AI-Brd-Trimmer/
 Clone the repository
 
 ```bash
-git clone https://github.com/Anushath15/AI-Brd-Trimmer-.git
+git clone https://github.com/Anushath15/AI-Brd-Trimmer.git
 ```
 
 Enter the project
